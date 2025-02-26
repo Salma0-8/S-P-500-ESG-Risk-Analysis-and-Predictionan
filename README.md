@@ -8,8 +8,7 @@
 3. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
 4. [Feature Engineering](#feature-engineering)  
 5. [Modeling & Evaluation](#modeling-evaluation)  
-6. [Results & Business Insights](#results-business-insights)  
-7. [Next Steps](#next-steps)  
+6. [Results & Business Insights](#results-business-insights)   
 
 ---
 
